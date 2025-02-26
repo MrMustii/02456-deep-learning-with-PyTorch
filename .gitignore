@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+data/
+6_Mini_Project/models/
+5_Transformers/rrn-lm.ckpt
